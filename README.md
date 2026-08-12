@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Sifeddine Eddarai!
-I'm a Software Developer currently studying Computer Science Engineering.<br>I focus on deepening my knowledge of project architectures, design patterns and data structures.<br>I especially love building complex backend solutions that require deep tinkering, and I’m truly passionate about the world of data.<br>I’m always exploring new challenges and technologies to improve my skills and evolve my coding practices.
+I'm a Software Engineer based in Morocco.<br>I focus on deepening my knowledge of project architectures, design patterns and data structures.<br>I especially love building complex backend solutions that require deep tinkering, and I’m truly passionate about the world of data.<br>I’m always exploring new challenges and technologies to improve my skills and evolve my coding practices.
 
 
 ## 🌐 Socials
