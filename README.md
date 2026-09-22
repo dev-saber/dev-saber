@@ -64,19 +64,5 @@ I'm a Software Engineer based in Morocco.<br>I focus on deepening my knowledge o
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-## 📊 GitHub Stats
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dev-saber/dev-saber/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dev-saber/dev-saber/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/dev-saber/dev-saber/output/github-snake.svg" />
-</picture>
-  
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-saber&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=dev-saber&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=dev-saber&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-
-
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
